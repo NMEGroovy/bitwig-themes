@@ -1,13 +1,15 @@
 {
-  "advanced": {},
+  "advanced": {
+    "Timeline Playhead": "#000000"
+  },
   "window": {
     "Abstract Button Pressed Background": "#3b3b3b",
     "Abstract Button Selected Background": "#474747",
     "Abstract Button Stroke": "#323232",
     "Abstract Button Unselected Background": "#545454",
-    "Activation Green": "#00FF00",  // Classic green LED
-    "Activation Red": "#FF0000",    // Classic red LED
-    "Activation Yellow": "#FFFF00", // Classic yellow LED
+    "Activation Green": "#00FF00",
+    "Activation Red": "#FF0000",
+    "Activation Yellow": "#FFFF00",
     "Active Inverted Toggle Icon (Playing)": "#dedede",
     "Active Panel stroke": "#787878",
     "Active Toggle Icon (Playing)": "#dedede",
@@ -49,9 +51,9 @@
     "Device Tint Retro": "#c07b4c52",
     "Display Background": "#1d1d1d",
     "Display Background (error)": "#521226",
-    "Display Loop Markers": "#00FF00", // Classic green LED
-    "Display Start/End Markers": "#FFFF00", // Classic yellow LED
-    "Display Waveform": "#FF0000", // Classic red LED
+    "Display Loop Markers": "#00FF00",
+    "Display Start/End Markers": "#FFFF00",
+    "Display Waveform": "#FF0000",
     "Drop Indicator": "#ffffff",
     "Emboss Highlight": "#ffffff19",
     "Emboss Shadow": "#0000003c",
@@ -81,7 +83,7 @@
     "Knob Value Color": "#ff7d0f",
     "Launcher Mapping Indication": "#6c6c6c",
     "Led Off": "#545454",
-    "Led On": "#FF0000", // Classic red LED
+    "Led On": "#FF0000",
     "Light Separator Line": "#aaaaaa",
     "Light Text": "#ffffff",
     "Light Tooltip Background": "#d7d7d7",
@@ -105,14 +107,14 @@
     "Menu separator": "#8c8c8c",
     "Menu stroke": "#272727",
     "Menu text": "#ffffff",
-    "Meter Clipping": "#FF0000", // Classic red LED
+    "Meter Clipping": "#FF0000",
     "Meter Gain Reduction": "#5386b6",
     "Meter Hitech": "#23d1d4",
     "Meter Hitech Background": "#23343e",
     "Meter Muted": "#979797",
-    "Meter Normal": "#00FF00", // Classic green LED
-    "Meter Red": "#FF0000", // Classic red LED
-    "Meter Yellow": "#FFFF00", // Classic yellow LED
+    "Meter Normal": "#00FF00",
+    "Meter Red": "#FF0000",
+    "Meter Yellow": "#FFFF00",
     "Modern Dark Scrollbar Handle (active)": "#000000ff",
     "Modern Dark Scrollbar Handle (inactive)": "#000000aa",
     "Modern Scrollbar Background (active)": "#78787834",
@@ -133,32 +135,32 @@
     "Notification Normal": "#00888c",
     "Number field bar background": "#e57e0e",
     "OK Button background": "#787878",
-    "On": "#FF0000", // Classic red LED
+    "On": "#FF0000",
     "On (subtle)": "#f07f1180",
     "On (subtler)": "#f07f1140",
     "Onset Marker Color": "#4c70c0",
     "Panel Blue": "#5ca8ee",
-    "Panel Green": "#00FF00", // Classic green LED
+    "Panel Green": "#00FF00",
     "Panel Lime": "#bbdd21",
     "Panel Mint": "#26d098",
     "Panel Orange": "#ff7f17",
     "Panel Purple": "#c36eff",
-    "Panel Red": "#FF0000", // Classic red LED
+    "Panel Red": "#FF0000",
     "Panel Turquoise": "#1be3e5",
-    "Panel Yellow": "#FFFF00", // Classic yellow LED
+    "Panel Yellow": "#FFFF00",
     "Panel body": "#535353",
     "Panel stroke": "#535353",
     "Popup Notification Background": "#000000b4",
     "Popup insert": "#747474",
     "Popup overlay background color": "#171717b4",
     "Pressed Inverted Toggle Icon": "#000000",
-    "Pressed On": "#FF0000", // Classic red LED
+    "Pressed On": "#FF0000",
     "Pressed Toggle Icon": "#858585",
     "Pressed button background": "#62626280",
     "Pressed view button background": "#373737",
     "Progress background": "#39495ebb",
     "Progress bar": "#5cbcff",
-    "Record button color": "#FF0000", // Classic red LED
+    "Record button color": "#FF0000",
     "Rubber button stroke": "#7a7a7a",
     "Rubber highlight button stroke": "#ff8d0050",
     "Scrollbar": "#787878",
